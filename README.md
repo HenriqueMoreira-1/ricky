@@ -1,0 +1,1 @@
+This project was created to better understand the React Query library, mainly its integration with typescript and how it works with pagination.
